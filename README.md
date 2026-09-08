@@ -4,5 +4,5 @@ This repository contains the completed deliverables for the AlphaSense Cloud Sup
 ## Project Structure
 
 ```text
-├── case-study-1/          # GenSearch-Powered Workflow
-└── case-study-2/          # Diagnosing a Broken Client Integration
+├── CaseStudy1/          # GenSearch-Powered Workflow
+└── CaseStudy2/          # Diagnosing a Broken Client Integration
