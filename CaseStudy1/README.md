@@ -14,6 +14,7 @@ ALPHASENSE_EMAIL=your_email_here
 ALPHASENSE_PASSWORD=your_password_here`
 
 Dependencies:
+
 `certifi            2026.7.22
 charset-normalizer 3.5.1
 idna               3.19
